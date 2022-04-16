@@ -1,2 +1,2 @@
-# Data Structures and Algorithms (CS445 @Pitt)
-Entire contents of CS 445 at Pitt: Data Structures and Algorithms 
+# Data Structures and Algorithms 
+Implementation of various datastructures and algorithms utilizing Java
